@@ -3,7 +3,7 @@
 模型的配置文件为[binsformer_swinl_22k_NYU_416x544.py](binsformer_swinl_22k_NYU_416x544.py "binsformer_swinl_22k_NYU_416x544.py")，训练方法和[mmsegmentation](https://github.com/open-mmlab/mmsegmentation "mmsegmentation")一样。
 ## 以下是模型推理结果的展示
 ![demo](demo/01.png "demo")
-第一列是输入模型的图片
+第一列是输入模型的图片   
 第二列是深度相机采集的标签   
 第三列是模型推理结果   
 
